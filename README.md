@@ -2,14 +2,11 @@
 
 This is a subset of the [full clothing dataset](https://github.com/alexeygrigorev/clothing-dataset) with the top-10 most popular classes. 
 
-This dataset can be freely used for any purpose, including commercial:
+This dataset can be freely used for any purpose. For example:
 
-For example:
+* Training a model for self-education
 * Creating a tutorial or a course (free or paid)
 * Writing a book
-* Kaggle competitions (as an external dataset)
-* Training an internal model at any company
-
 
 ### Examples
 
